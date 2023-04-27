@@ -48,7 +48,7 @@ def main():
     print("Bersiaplah untuk keadilan sebenarnya :", random_name_generator())
 
     again = input("Mau ganti nama ga bree (ya/no)? ")
-    if again.lower() != "ya":
+    if again.lower() != "no":
       break
 
 if __name__ == "__main__":
